@@ -129,3 +129,4 @@ printview
 printenv
 echo $LANG
 declare -p
+echo $RANDOM
