@@ -51,3 +51,4 @@ echo Hello $NAME
 echo Hello $NAME
 ./questionnaire.sh
 ./questionnaire.sh
+echo --help
