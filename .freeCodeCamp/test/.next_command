@@ -55,3 +55,6 @@ echo --help
 man echo
 echo -e \n~~ Questionnaire ~~\n
 ./questionnaire.sh
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+./questionnaire.sh
