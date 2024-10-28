@@ -50,3 +50,4 @@ echo Hello $NAME
 ./questionnaire.sh
 echo Hello $NAME
 ./questionnaire.sh
+./questionnaire.sh
