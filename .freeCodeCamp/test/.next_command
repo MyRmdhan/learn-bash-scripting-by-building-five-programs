@@ -128,3 +128,4 @@ chmod +x bingo.sh
 printview
 printenv
 echo $LANG
+declare -p
