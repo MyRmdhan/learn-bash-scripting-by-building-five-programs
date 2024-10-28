@@ -45,3 +45,5 @@ __vsc_prompt_cmd_original
 QUESTION1="What's your name?"
 echo
 ./questionnaire.sh
+echo $NAME
+echo Hello $NAME
