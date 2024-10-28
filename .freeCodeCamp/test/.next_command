@@ -60,3 +60,4 @@ __vsc_prompt_cmd_original
 ./questionnaire.sh
 echo -e "\n~~ Questionnaire ~~\n"
 ./questionnaire.sh
+./questionnaire.sh
