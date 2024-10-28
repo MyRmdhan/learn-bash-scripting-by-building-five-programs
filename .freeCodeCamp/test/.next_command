@@ -48,3 +48,5 @@ echo
 echo $NAME
 echo Hello $NAME
 ./questionnaire.sh
+echo Hello $NAME
+./questionnaire.sh
