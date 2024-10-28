@@ -171,3 +171,4 @@ declare -p ARR
 ./fortune.sh
 echo ${RESPONSES[$N]}
 help
+help function
