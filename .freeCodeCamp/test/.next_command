@@ -113,3 +113,4 @@ ls --color=auto /
 ls --color=auto /bin
 __vsc_prompt_cmd_original
 man sleep
+sleep 3
