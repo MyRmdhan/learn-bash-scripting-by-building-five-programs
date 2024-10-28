@@ -58,3 +58,4 @@ echo -e \n~~ Questionnaire ~~\n
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 ./questionnaire.sh
+echo -e "\n~~ Questionnaire ~~\n"
