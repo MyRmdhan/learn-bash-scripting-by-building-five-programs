@@ -168,3 +168,4 @@ echo ${ARR[1]}
 __vsc_prompt_cmd_original
 echo ${ARR[@]}
 declare -p ARR
+./fortune.sh
